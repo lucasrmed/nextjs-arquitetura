@@ -1,5 +1,5 @@
-import { Text } from '@alura/design-system';
-import { sum } from '@alura/utils/math/sum';
+import { Text } from '@lucas/design-system';
+import { sum } from '@lucas/utils/math/sum';
 
 export default function HomeScreen() {
     return (

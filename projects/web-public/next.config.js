@@ -1,7 +1,7 @@
 const withPlugins = require("next-compose-plugins");
 const withTM = require("next-transpile-modules")([
-  "@alura/utils",
-  "@alura/design-system",
+  "@lucas/utils",
+  "@lucas/design-system",
 ]);
 
 /**
